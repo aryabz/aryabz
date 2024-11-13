@@ -6,6 +6,11 @@
 I have been working and learning in the field of Front End for a year.<br>
 I am very interested in learning more about <b>JavaScript</b> </p>
 
+- 🌎 im based in Tehran,Shahriar
+- 🌱 I’m currently learning react and tailwind.
+- 📫 How to reach me: Send an email to ariabarzegar008@gmail.com.
+- 💬 Ask me about javascript.
+
 <h2><b>Skills</b></h2>
      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/ariabarzegar/ariabarzegar/blob/main/file-type-html.226x256.png?raw=true" alt="HTML" width="50px">
