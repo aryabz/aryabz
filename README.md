@@ -12,21 +12,8 @@ I am very interested in learning more about <b>JavaScript</b> </p>
 - 💬 Ask me about javascript.
 
 <h2><b>Skills</b></h2>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/ariabarzegar/ariabarzegar/blob/main/file-type-html.226x256.png?raw=true" alt="HTML" width="50px">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/ariabarzegar/ariabarzegar/blob/main/file-type-css.226x256.png?raw=true" alt="CSS" width="50px">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/ariabarzegar/ariabarzegar/blob/main/javascript-js.256x256.png?raw=true" alt="JavaScript" width="50px">
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/ariabarzegar/ariabarzegar/blob/main/bootstrap.256x256.png?raw=true" alt="bootstrap" width="50px">
-    </a>
-    <a href="https://learn.jquery.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/ariabarzegar/ariabarzegar/blob/main/jquery-plain.256x247.png?raw=true" alt="jquery" width="50px">
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/ariabarzegar/ariabarzegar/blob/main/vue-vuejs-javascript-js-framework.256x223.png?raw=true" alt="vue.js" width="50px">
-    </a>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) 
+
+
+
