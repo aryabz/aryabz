@@ -4,6 +4,7 @@
 - - - - - - - - - 
 <p>
 I have been working and learning in the field of Front End for a year.<br>
+I really enjoy expanding my knowledge of front-end and staying up-to-date with the latest developments in the industry.
 I am very interested in learning more about <b>JavaScript</b> </p>
 
 - 🌎 im based in Tehran,Shahriar
