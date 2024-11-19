@@ -4,8 +4,7 @@
 - - - - - - - - - 
 <p>
 I have been working and learning in the field of Front End for a year.<br>
-I really enjoy expanding my knowledge of front-end and staying up-to-date with the latest developments in the industry.
-I am very interested in learning more about <b>JavaScript</b> </p>
+I really enjoy expanding my knowledge about programming and staying up to date with the latest developments in the industry.</p>
 
 - 🌎 im based in Tehran,Shahriar
 - 🌱 I’m currently learning react and tailwind.
