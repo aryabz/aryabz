@@ -19,6 +19,4 @@ I really enjoy expanding my knowledge about programming and staying up to date w
 ![git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=black)
 
 
-### Badges
 
-<a href="https://github.com/ariabarzegar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariabarzegar&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
