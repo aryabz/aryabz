@@ -1,8 +1,6 @@
 ## Hello 👋, my name is Aria Barzegar 
 
 <b>front end Developer</b>
-- - - - - - - - - 
-<img src='https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif'>
 <p>
 I have been working and learning in the field of Front End for a year.<br>
 I really enjoy expanding my knowledge about programming and staying up to date with the latest developments in the industry.</p>
@@ -12,6 +10,7 @@ I really enjoy expanding my knowledge about programming and staying up to date w
 - ✉️  You can contact me at [ariabarzegar008@gmail.com](mailto:ariabarzegar008@gmail.com)
 - 💬 Ask me about javascript.
 
+- - - - - - - - - 
 <h2><b>Skills</b></h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
