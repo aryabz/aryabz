@@ -2,6 +2,7 @@
 
 <b>front end Developer</b>
 - - - - - - - - - 
+<img src='https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif'>
 <p>
 I have been working and learning in the field of Front End for a year.<br>
 I really enjoy expanding my knowledge about programming and staying up to date with the latest developments in the industry.</p>
