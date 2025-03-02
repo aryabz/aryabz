@@ -6,7 +6,7 @@ I have been working and learning in the field of Front End for a year.<br>
 I really enjoy expanding my knowledge about programming and staying up to date with the latest developments in the industry.</p>
 
 - 🌎 im based in Tehran,Shahriar
-- 🧠  I'm learning Vue,
+- 🧠  I'm learning React.js,
 - ✉️  You can contact me at [ariabarzegar008@gmail.com](mailto:ariabarzegar008@gmail.com)
 - 💬 Ask me about javascript.
 
