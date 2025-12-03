@@ -2,7 +2,7 @@
 
 <b>front end Developer</b>
 <p>
-I have been working and learning in the field of Front End for a year.<br>
+I have been working and learning in the field of Front End .<br>
 I really enjoy expanding my knowledge about programming and staying up to date with the latest developments in the industry.</p>
 
 - 🌎 im based in Tehran,Shahriar
