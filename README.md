@@ -7,7 +7,7 @@ I really enjoy expanding my knowledge about programming and staying up to date w
 
 - 🌎 im based in Tehran,Shahriar
 - 🧠  I'm learning React.js,
-- ✉️  You can contact me at [ariabarzegar008@gmail.com](mailto:ariabarzegar008@gmail.com)
+- ✉️  You can contact me at [aryabz_official@gmail.com](mailto:aryabz_official@gmail.com)
 - 💬 Ask me about javascript.
 
 - - - - - - - - - 
