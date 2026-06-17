@@ -1,4 +1,4 @@
-## Hello 👋, my name is AryaBarzegar (aryabz)
+## Hello 👋, my name is Arya Barzegar (aryabz)
 
 <b>front end Developer</b>
 <p>
